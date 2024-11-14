@@ -1,0 +1,3 @@
+///TASK THREE
+
+This is a sample file. Node.js can read this content using the 'fs' core module.
